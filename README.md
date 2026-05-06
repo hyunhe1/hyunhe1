@@ -16,8 +16,6 @@
 
 ## Github Stats
 
-<p align="left">
-  <img src="https://github-readme-stats.vercel.app/api?username=dyahxhx&show_icons=true&theme=transparent" height="165"/>
 <a href="https://github.com/dyahxhx">
   <img src="https://render.gitanimals.org/farms/dyahxhx" width="350" height="165"/>
 </a>
